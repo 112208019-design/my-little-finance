@@ -6,7 +6,7 @@
 ## 技術與執行
 - 使用純 HTML、CSS、JavaScript，不需建置工具或外部 API。
 - 入口為 `index.html`；GitHub Pages 可直接部署。
-- 內容集中在 `js/data.js`，渲染與互動集中在 `js/app.js`，樣式在 `css/style.css`。
+- 內容集中在 `data.js`，渲染與互動集中在 `app.js`，樣式在 `style.css`。
 - 不要加入框架、套件或追蹤程式，除非使用者明確要求。
 
 ## 設計規範
